@@ -1,0 +1,34 @@
+.row {
+  width: 600px;
+}
+#input-el,
+#generate-btn {
+  padding: 8px 16px;
+  border-radius: 4px;
+  height: 40px;
+  box-sizing: border-box;
+}
+input {
+  border: 1px solid rgb(199, 199, 199);
+  width: 400px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+}
+#generate-btn {
+  margin-left: 16px;
+  border: 1px solid greenyellow;
+  background-color: greenyellow;
+  font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+  font-weight: 500;
+  font-size: 1rem;
+}
+#generate-btn:hover {
+  background-color: rgb(143, 212, 38);
+  cursor: pointer;
+}
+#qr-el {
+  width: 100%;
+}
+img {
+  margin: 32px 0px;
+  width: 50%;
+}
