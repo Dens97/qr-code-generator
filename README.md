@@ -4,6 +4,10 @@
 <p><strong>Current Tab:</strong> Automatically generates a QR-Code for your active browser tab. (Only works as a Google Chrome Extension)</p>
 <br>
 <h2>How to add the extension to Google Chrome:</h2>
+<ol>
+  <li>Open Google Chrome and go to chrome://extensions</li>
+  <li>Activate developermode in the top right corner if you haven't already</li>
+</ol>
 
 <br>
 <h2>Credits</h2>
