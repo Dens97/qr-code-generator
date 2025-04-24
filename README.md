@@ -6,7 +6,7 @@
 <h2>How to add the extension to Google Chrome:</h2>
 <ol>
   <li>Open Google Chrome and go to chrome://extensions</li>
-  <li>Activate developermode in the top right corner if you haven't already</li>
+  <li>Activate Developer mode in the top right corner if you haven't already</li>
   
   ![image](https://github.com/user-attachments/assets/bee2a356-a478-4812-9da1-a92b38b18086)
 
