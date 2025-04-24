@@ -11,7 +11,12 @@
   ![image](https://github.com/user-attachments/assets/bee2a356-a478-4812-9da1-a92b38b18086)
 
   <li>Click the Load unpacked - Button and upload the repository</li>
-  
+
+  <li>You should now be able to open the extension and start generating codes! :)</li>
+
+   ![image](https://github.com/user-attachments/assets/48aacb32-ac97-4785-89c3-ecb5be0e1177)
+
+
 </ol>
 
 <br>
