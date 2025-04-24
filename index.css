@@ -1,8 +1,23 @@
+@font-face {
+  font-family: "Inter";
+  src: url("Inter.ttf");
+}
+body,
+input,
+button {
+  font-family: "Inter", sans-serif;
+}
+body {
+  margin: 0;
+}
 .row {
-  width: 600px;
+  box-sizing: border-box;
+  width: 400px;
+  padding: 8px;
+  text-align: center;
 }
 #input-el,
-#generate-btn {
+button {
   padding: 8px 16px;
   border-radius: 4px;
   height: 40px;
@@ -10,25 +25,36 @@
 }
 input {
   border: 1px solid rgb(199, 199, 199);
-  width: 400px;
   font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+  width: 100%;
 }
-#generate-btn {
-  margin-left: 16px;
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  margin: 8px 0px;
+}
+button {
+  width: 190px;
   border: 1px solid greenyellow;
   background-color: greenyellow;
   font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
-  font-weight: 500;
   font-size: 1rem;
 }
-#generate-btn:hover {
+button:hover {
   background-color: rgb(143, 212, 38);
   cursor: pointer;
 }
 #qr-el {
   width: 100%;
 }
+#qr-wrapper {
+  margin-top: 24px;
+  border: 1px solid rgb(199, 199, 199);
+  padding: 32px;
+  width: 384px;
+  height: 384px;
+  box-sizing: border-box;
+}
 img {
-  margin: 32px 0px;
-  width: 50%;
+  width: 100%;
 }
